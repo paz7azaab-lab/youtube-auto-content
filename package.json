@@ -1,0 +1,7 @@
+{
+  "name":"youtube-autopilot-agent",
+  "version":"1.0.0",
+  "private":true,
+  "scripts":{"start":"node src/agent.js","login":"node src/login.js","status":"node src/status.js"},
+  "dependencies":{"playwright":"^1.55.0"}
+}
